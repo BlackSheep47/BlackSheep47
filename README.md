@@ -8,3 +8,14 @@
 <h3 align="center">
   Average Computer Science Student !!
 </h3>
+</br>
+
+<div align="center">
+  I'm Currently workin on Tools & Bots
+   
+  I will share the tools that i developed (sry i'm skid )
+
+  Fun Fact (I'm Average student with 6 backlog in computer science)
+  
+</div>
+
