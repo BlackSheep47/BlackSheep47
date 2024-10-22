@@ -1,1 +1,2 @@
-# Something-about-me
+# Hello, I'm Ayush Vaid
+Programmer | Designer | Game Level Designer | Game Developer
