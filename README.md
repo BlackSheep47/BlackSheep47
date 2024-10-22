@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-  Average Computer Science Student !!
+  Average Computer Science Student !! 
 </h3>
 
 <div class="tenor-gif-embed" data-postid="1189243686461946398" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%">
