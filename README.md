@@ -8,6 +8,9 @@
 <h3 align="center">
   Average Computer Science Student !!
 </h3>
+
+<div class="tenor-gif-embed" data-postid="1189243686461946398" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/alex-naruto-gif-1189243686461946398">Alex Naruto GIF</a>from <a href="https://tenor.com/search/alex+naruto-gifs">Alex Naruto GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 </br>
 
 <div align="center">
