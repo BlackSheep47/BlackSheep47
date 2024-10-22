@@ -10,10 +10,6 @@
 </h3>
 </br>
 
-
-https://github.com/user-attachments/assets/f003ba43-2092-491e-8e5f-d057c9ac2b0e
-
-
 <div align="center">
   I'm Currently working on (Tools & Bots)
   
