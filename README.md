@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-  Average Computer Nerd !! 
+  Computer Freak !! 
 </h3>
 </br>
 
