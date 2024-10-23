@@ -8,7 +8,7 @@
 <h3 align="center">
   Computer Freak !! 
 </h3>
-</br>
+<br/>
 
 <div align="center">
   
@@ -26,6 +26,7 @@
 <div align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=unity,androidstudio,blender,html,css"/><br>
+
 <img src="https://skillicons.dev/icons?i=js,kali,linux,ps,py,unreal"/>
 
 
