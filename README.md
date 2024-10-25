@@ -20,10 +20,6 @@
   
 </div>
 
-<div align="center">
-  ![24b1483734254339ac47e5ecf4844e23](https://github.com/user-attachments/assets/28d80748-db81-4550-b4e2-904f2bfad95a)
-</div>
-
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 
