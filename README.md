@@ -25,8 +25,9 @@
 
 <div align="center">
  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=unity,androidstudio,blender,html,css"/><br>
-  <img src="https://skillicons.dev/icons?i=js,kali,linux,ps,py,unreal"/>
+  <img src="https://skillicons.dev/icons?i=unity,androidstudio,blender,html,css,unreal,pr"/><br>
+   <img src="https://skillicons.dev/icons?i=js,kali,linux,ps,py,bash,discord"/>
+   
 
 
 </a>
