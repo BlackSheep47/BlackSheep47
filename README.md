@@ -1,3 +1,4 @@
+
 <img align="right" src="https://badges.pufler.dev/visits/BlackSheep47/BlackSheep47" />
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -9,6 +10,13 @@
   Computer Freak !! 
 </h3>
 <br/>
+
+<div align="center">
+
+![3BBS](https://github.com/user-attachments/assets/5fa6b099-80f4-4a28-9802-076442c5b86f)
+
+  
+</div>
 
 <div align="center">
   
