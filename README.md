@@ -12,13 +12,6 @@
 <br/>
 
 <div align="center">
-
-![3BBS](https://github.com/user-attachments/assets/5fa6b099-80f4-4a28-9802-076442c5b86f)
-
-  
-</div>
-
-<div align="center">
   
   👨🏻‍💻 I'm Currently working on (Tools & Bots)
   
