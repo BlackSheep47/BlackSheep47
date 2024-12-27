@@ -1,9 +1,5 @@
 <img align="right" src="https://badges.pufler.dev/visits/BlackSheep47/BlackSheep47" />
 
-
-<img src="https://github.com/user-attachments/assets/629b4399-f870-4ace-93d6-0c9298aee130" width="200" height="200" />
-
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&duration=2500&pause=500&width=435&lines=Hello+Nerds!;I'm+Ayush+Vaid;Peace+%E2%9C%8C" alt="Typing SVG" />
