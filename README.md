@@ -28,9 +28,23 @@
  <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=unity,androidstudio,blender,html,css,unreal,pr"/><br>
    <img src="https://skillicons.dev/icons?i=js,kali,linux,ps,py,bash,discord"/>
-   
+   </a>
+   </div>
 
+<h2 align="center"> Git-Stats </h2>
+<br/>
 
-</a>
+<div align="center">
+  
+  ![BlackSheep47's Stats](https://github-readme-stats.vercel.app/api?username=BlackSheep47&theme=dark&show_icons=true&hide_border=true&count_private=true) ![BlackSheep47's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlackSheep47&theme=dark&hide_border=true)
+
+  </div>
+  
+<div align="center">
+
+![BlackSheep47's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSheep47&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 </div>
+
+
 
