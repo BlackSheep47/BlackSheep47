@@ -36,13 +36,26 @@
 
 <div align="center">
   
-  ![BlackSheep47's Stats](https://github-readme-stats.vercel.app/api?username=BlackSheep47&theme=dark&show_icons=true&hide_border=true&count_private=true) ![BlackSheep47's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlackSheep47&theme=dark&hide_border=true)
+<img align="left"
+  src="https://github-readme-stats.vercel.app/api?username=BlackSheep47&theme=dark&show_icons=true&hide_border=true&count_private=true" 
+  alt="BlackSheep47's Stats" 
+  style="width: 400px; height: 200px;"/>
+ 
+<img align="right"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=BlackSheep47&theme=dark&hide_border=true" 
+  alt="BlackSheep47's Stats" 
+  style="width: 400px; height: 200px;"/>
+</div>
 
-  </div>
+
   
 <div align="center">
 
-![BlackSheep47's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSheep47&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+<img align="center"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSheep47&theme=dark&show_icons=true&hide_border=true&layout=compact" 
+  alt="BlackSheep47's Stats" 
+  style="width: 400px; height: 200px;"/>
 
 </div>
 
