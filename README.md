@@ -1,10 +1,21 @@
+<div>
+<div align="left">
 
-<img align="right" src="https://badges.pufler.dev/visits/BlackSheep47/BlackSheep47" />
+<img src="https://github.com/user-attachments/assets/494e3345-d631-4ff2-b944-40999662f694" width="300" height="200" />
+
+ 
+
+  <div/>
+
+  
+  <img align="right" src="https://badges.pufler.dev/visits/BlackSheep47/BlackSheep47" />
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&duration=2500&pause=500&width=435&lines=Hello+Nerds!;I'm+Ayush+Vaid;Peace+%E2%9C%8C" alt="Typing SVG" />
   </a>
 </h1>
+</div>
+
 
 <h3 align="center">
   Computer Freak !! 
