@@ -32,32 +32,6 @@
    </a>
    </div>
 
-<h2 align="center"> Git-Stats </h2>
-<br/>
-
-<div align="center">
-  
-<img align="left"
-  src="https://github-readme-stats.vercel.app/api?username=BlackSheep47&theme=dark&show_icons=true&hide_border=true&count_private=true" 
-  alt="BlackSheep47's Stats" 
-  style="width: 400px; height: 200px;"/>
- 
-<img align="right"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=BlackSheep47&theme=dark&hide_border=true" 
-  alt="BlackSheep47's Stats" 
-  style="width: 400px; height: 200px;"/>
-</div>
-
-
-  
-<div align="center">
-
-
-<img align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSheep47&theme=dark&show_icons=true&hide_border=true&layout=compact" 
-  alt="BlackSheep47's Stats" 
-  style="width: 400px; height: 200px;"/>
-
 </div>
 
 
